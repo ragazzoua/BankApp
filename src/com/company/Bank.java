@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class Bank {
     private String name;
-    private ArrayList<Branch> branches;
+    private ArrayList<Branch> branches;//fklsfklsjklfd
 
 
     public Bank(String name) {
